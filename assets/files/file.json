@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 11 Pro Max ",
+            "des": "4GB RAM, 512GB Storage",
+            "price": 999,
+            "image": "https://media.croma.com/image/upload/v1609843756/Croma%20Assets/Communication/Mobiles%20Accessories/Images/221291_oqq1ba.png"
+        },
+        {
+            "id": 2,
+            "name": "Redmi Note 10 Pro",
+            "des": "6GB RAM, 128GB Storage",
+            "price": 254,
+            "image": "https://i01.appmifile.com/webfile/globalimg/zhouyuxin/K6-blue-800.png"
+        },
+        {
+            "id": 3,
+            "name": "Galaxy Note20 Ultra ",
+            "des": "12GB RAM, 256GB Storage",
+            "price": 1407,
+            "image": "https://cdn.shopify.com/s/files/1/1684/4603/products/samsung-galaxy-note-20-ultra.png?v=1600944698"
+        },
+        {
+            "id": 4,
+            "name": "Google Pixel 5  ",
+            "des": "8GB RAM, 128GB Storage",
+            "price": 871,
+            "image": "https://lh3.googleusercontent.com/1rGygypuUJbOrWBP3ZozcBUUOTvRrxRIcaZ3B_MFOTdW6ForENs0gbLmqZhPKK3ivDyUp0xkTs4Zx86dWdZEflUzfS8LtO-BeocYgRONgyTQZBlqhdxughOKXQ=s800-c"
+        },
+        {
+            "id": 5,
+            "name": "OnePlus 7",
+            "des": "8GB RAM, 256GB Storage ",
+            "price": 509,
+            "image": "https://image01.oneplus.net/ebp/202003/01/1-m00-11-7b-rb8lb15bwreanghyaajn6akbkfu944_840_840.png"
+        },
+        {
+            "id": 6,
+            "name": "Asus Rog Phone 3",
+            "des": "12GB RAM, 128GB Storage",
+            "price": 670,
+            "image": "https://www.electrorates.com/blogimg/ASUS_ROG_PHONE_3_ZS661KS.png"
+        },
+        {
+            "id": 7,
+            "name": "Poco X2 ",
+            "des": "6GB RAM 128GB Storage",
+            "price": 206,
+            "image": "https://infofull.net/wp-content/uploads/2020/02/poco-x2-sp.png"
+        },
+        {
+            "id": 8,
+            "name": "RealMe X ",
+            "des": "8GB RAM, 128GB Storage",
+            "price": 213,
+            "image": "https://www.electrorates.com/blogimg/realme_x_lite.png"
+        },
+        {
+            "id": 9,
+            "name": "Vivo X60 Pro+",
+            "des": "12GB RAM, 256GB Storage ",
+            "price": 938,
+            "image": "https://www.91-cdn.com/hub/wp-content/uploads/2021/01/Vivo-X60-Pro-Black.png"
+        },
+        {
+            "id": 10,
+            "name": "OPPO Reno5 Pro 5G ",
+            "des": "8GB RAM, 128GB Storage",
+            "price": 482,
+            "image": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno5-pro-5g-chaka/navigation/Reno5-pro-chaka-navigation-black-v2.png"
+        }
+    ]
+}
